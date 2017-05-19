@@ -55,12 +55,11 @@ transpose of the vector and X to T, enabling future reconstruction.
 
 Algorithm
 --------
-![rbd algorithm](rbd_algorithm.png)
+.. image:: rbd_algorithm.png
 
 Performance over number of basis (d)
 --------
-![rbd performance](rbd_performance.png)
-
+.. image:: rbd_performance.png
 
 References
 --------

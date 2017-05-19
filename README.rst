@@ -28,6 +28,14 @@ Python package for reduced basis decomposition algorithm concieved by Yanlai Che
 Features
 --------
 
+References
+--------
+Submitting to pypi
+- http://peterdowns.com/posts/first-time-with-pypi.html
+
+Cookie Cutter PyPackage Tutorial
+- https://cookiecutter-pypackage.readthedocs.io/en/latest/tutorial.html#step-2-generate-your-package
+
 * TODO
 
 Credits
@@ -37,4 +45,3 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
-

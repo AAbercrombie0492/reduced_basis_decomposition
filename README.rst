@@ -50,8 +50,10 @@ While the Error_Requirement and Max_Basis conditions are unmet:
 
 1. Pick a vector from X with the optimal error correction power to orthogonally
 project onto the Y space.
+
 2. Add the vector to Y using the Gramm-Schmidt process. Add the dot product of the
 transpose of the vector and X to T, enabling future reconstruction.
+
 3. Check to make sure the newest column.
 
 Algorithm

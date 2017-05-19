@@ -44,7 +44,7 @@ decomposition.
 
 Pseudocode
 --------
-Y,T = RBD(X, Error_Requirement, Max_Basis)
+*Y,T = RBD(X, Error_Requirement, Max_Basis)*
 
 While the Error_Requirement and Max_Basis conditions are unmet:
 1. Pick a vector from X with the optimal error correction power to orthogonally

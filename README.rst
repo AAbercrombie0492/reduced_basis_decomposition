@@ -54,7 +54,8 @@ project onto the Y space.
 2. Add the vector to Y using the Gramm-Schmidt process. Add the dot product of the
 transpose of the vector and X to T, enabling future reconstruction.
 
-3. Check to make sure the newest column.
+3. Check to make sure the newest column vector in Y hasn’t solved the
+decomposition problem already.
 
 Algorithm
 --------
@@ -71,8 +72,6 @@ Submitting to pypi
 
 Cookie Cutter PyPackage Tutorial
 - https://cookiecutter-pypackage.readthedocs.io/en/latest/tutorial.html#step-2-generate-your-package
-
-* TODO
 
 Credits
 ---------
